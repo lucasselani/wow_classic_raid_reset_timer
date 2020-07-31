@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const primaryColor = Colors.purple;
-  static const accentColor = Colors.purpleAccent;
-  static const backgroundColor = Colors.deepPurple;
+  static var primaryColor = Colors.indigo;
+  static var accentColor = Colors.indigoAccent;
+  static var backgroundColor = Color.fromRGBO(255, 255, 255, 0.95);
   static const white = Colors.white;
   static const black = Colors.black;
   static const black12 = Colors.black12;
